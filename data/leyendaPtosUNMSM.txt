@@ -1,0 +1,28 @@
+indice,lugar
+1,Puerta 8
+2,Losa Deportiva FISI
+3,Losa Deportiva FIEE
+4,Cafeteria FIC
+5,Auditorio Universitario
+6,Plaza Central
+7,Biblioteca Central
+8,Cafeteria Odontologia
+9,Puerta 7
+10,Residencia Universitaria
+11,Autoseguro
+12,Clinica Universitaria
+13,Cafeteria Mecanica de Fluidos
+14,Restaurante Papas fritas
+15,Cafeteria Letras
+16,Puerta 3
+17,Cafeteria Contabilidad
+18,Piscina Universitaria
+19,Puerta 2
+20,Cejero Banco de la Nacion
+21,Cafe Express
+22,Comedor Universitario
+23,Puerta 1
+24,Losa Deportiva FIQ
+25,Gimnasio Universitario
+26, Losa Deportiva Atletica
+27, Losa Deportiva Huaca
