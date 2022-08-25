@@ -1,6 +1,4 @@
-# Tucil-3-Stima-2020
-
-DEMO del proyecto del curso de Inteligencia Artificial 2022-1 || UNMSM
+# DEMO del proyecto del curso de Inteligencia Artificial 2022-1 || UNMSM
 Elaborado en Jupyter-Notebook en el lenguaje de Python
 
 
